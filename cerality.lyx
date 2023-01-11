@@ -1,0 +1,393 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass heb-article
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding default
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\rightmargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+אחרי המקטב הראשון 
+\begin_inset Formula 
+\[
+E=E_{0}\hat{x}+0\hat{y}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+אחרי החומר הכיראלי
+\begin_inset Formula 
+\[
+E=E_{0}\cos\left(\phi\right)\hat{x}+E_{0}\sin\left(\phi\right)\hat{y}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+אחרי המקטב השני )מאונך למקטב הראשון(
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+E_{0}\cos\left(\theta_{2}-\left(\theta_{1}+\phi\right)\right)\hat{y}+\hat{x}=E_{0}\cos\left(\theta_{2}-\left(\theta_{1}+\phi\right)\right)\hat{y}=E_{0}\cos\left(\frac{\pi}{2}-\phi\right)=E_{0}\sin\left(\phi\right)
+\]
+
+\end_inset
+
+והעוצמה פורפורציונלית לריבוע האמפליטודה ולכן 
+\begin_inset Formula 
+\[
+I\propto E_{0}^{2}\sin^{2}\left(\phi\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+נוסחאות שימושיות נוספות:
+\end_layout
+
+\begin_layout Subsection
+\begin_inset Formula $\text{on chirality and the universal asummetry}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+עבור צד אחד של המולקולה
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+n_{\mathrm{L}}\left(\lambda^{\prime}\right)-n_{\mathrm{R}}\left(\lambda^{\prime}\right)=+\Delta n\left(\lambda^{\prime}\right)\neq0
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+עבור הצד השני
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+n_{\mathrm{L}}\left(\lambda^{\prime}\right)-n_{\mathrm{R}}\left(\lambda^{\prime}\right)=-\Delta n\left(\lambda^{\prime}\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+משוואה על מקדמי הבליעה: 
+\begin_inset Formula $\varepsilon_{\mathrm{L}}-\varepsilon_{\mathrm{R}}=\Delta\varepsilon\neq0$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsection
+מקדמי שבירה:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+\phi_{x}=kw\left(n_{x}-1\right)
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\Delta\phi=\phi_{x}-\phi_{y}=kw\left(n_{x}-n_{y}\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+דברים למחר 
+\end_layout
+
+\begin_layout Standard
+לשאול את ענה על דרך לשנות אורך גל של לייזר
+\end_layout
+
+\begin_layout Subsection
+דברים של הניסוי כבר
+\end_layout
+
+\begin_layout Standard
+מסה מולרית של גלוקוז -
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $180.156\ \frac{g}{mol}$
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{1.5}{180.156}=0.00832\frac{nol}{v}\Rightarrow900\cdot0.00832=7.4
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{1.5}{180.156\cdot1000}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+נחשב 
+\begin_inset Formula 
+\[
+C=\underbrace{\frac{1.5}{1000}}_{[\frac{mol}{cm^{3}}]}\Rightarrow=243.02
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+גרם סוכר:
+\family roman
+\series bold
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $102.8\ [g]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+נפח מים מזוקקים: 
+\begin_inset Formula $500\pm10[ml]$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+נפח סופי: 
+\begin_inset Formula $550\pm10[ml]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+לפי חוק סנל 
+\begin_inset Formula 
+\[
+sin\left(\alpha\right)n_{A}=sin\left(\beta\right)n_{B}\rightarrow sin\left(\beta\right)=sin\left(\alpha\right)\frac{n_{B}}{n_{A}}\Rightarrow\cos\left(\beta\right)=\sqrt{1-sin^{2}\left(\alpha\right)\left(\frac{n_{1}}{n_{2}}\right)^{2}}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\beta=\arcsin\left(\frac{sin\left(\alpha\right)}{n_{b}}\right)
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{\tan^{2}(\theta+\arcsin\left(\frac{sin\left(\theta\right)}{n}\right))}{\tan^{2}(\theta-\arcsin\left(\frac{sin\left(\theta\right)}{n}\right))}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\beta=\cos\left(sin^{-1}\left(sin\left(\alpha\right)\frac{n_{1}}{n_{2}}\right)\right)
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{\cos\alpha-\frac{n_{A}}{n_{b}}\sqrt{1-sin^{2}\left(\alpha\right)\left(\frac{n_{A}}{n_{b}}\right)^{2}}}{\cos\alpha+\frac{n_{A}}{n_{b}}\sqrt{1-sin^{2}\left(\alpha\right)\left(\frac{n_{A}}{n_{b}}\right)^{2}}}=
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\Rightarrow\frac{a-c\sqrt{}}{a}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\Rightarrow
+\]
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
