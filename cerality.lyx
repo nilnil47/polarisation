@@ -115,15 +115,54 @@ E_{0}\cos\left(\theta_{2}-\left(\theta_{1}+\phi\right)\right)\hat{y}+\hat{x}=E_{
 
 \end_inset
 
-והעוצמה פורפורציונלית לריבוע האמפליטודה ולכן 
+
 \begin_inset Formula 
 \[
-I\propto E_{0}^{2}\sin^{2}\left(\phi\right)
+\Rightarrow I_{per}\propto E_{0}^{2}\sin^{2}\left(\phi\right)
 \]
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+אחרי המקטב השני )מקביל למקטב הראשון(
+\begin_inset Formula 
+\[
+E_{0}\cos\left(\theta_{2}-\left(\theta_{1}+\phi\right)\right)\hat{y}+\hat{x}=E_{0}\cos\left(\theta_{2}-\left(\theta_{1}+\phi\right)\right)\hat{y}=E_{0}\cos\left(0-\phi\right)=E_{0}\cos\left(\phi\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+\Rightarrow I_{par}\propto E_{0}^{2}\cos^{2}\left(\phi\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ולכן 
+\begin_inset Formula 
+\[
+\tan^{2}\phi=\frac{I_{per}}{I_{par}}\Rightarrow\phi=\tan^{-1}\left(\sqrt{\frac{I_{per}}{I_{par}}}\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+והעוצמה פורפורציונלית לריבוע האמפליטודה ולכן 
 \end_layout
 
 \begin_layout Standard
@@ -187,7 +226,7 @@ n_{\mathrm{L}}\left(\lambda^{\prime}\right)-n_{\mathrm{R}}\left(\lambda^{\prime}
 
 \end_inset
 
-
+לא עודד אגם - 
 \begin_inset Formula 
 \[
 \Delta\phi=\phi_{x}-\phi_{y}=kw\left(n_{x}-n_{y}\right)
@@ -196,6 +235,47 @@ n_{\mathrm{L}}\left(\lambda^{\prime}\right)-n_{\mathrm{R}}\left(\lambda^{\prime}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+דיבור על ערך של 
+\begin_inset Formula $\Delta n$
+\end_inset
+
+ - עודד אגם
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+92
+\numeric off
+ 
+\end_layout
+
+\begin_layout Subsection
+ספסיפיק רוטיישן
 \end_layout
 
 \begin_layout Subsection
@@ -387,6 +467,109 @@ sin\left(\alpha\right)n_{A}=sin\left(\beta\right)n_{B}\rightarrow sin\left(\beta
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+מדידות
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\end_layout
+
+\begin_layout Standard
+לקראת האורכים הנמוכים )בערך מ
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+10
+\numeric off
+( השדה המקביל מתחלש כז
+\end_layout
+
+\begin_layout Subsection
+הערות לדוח
+\end_layout
+
+\begin_layout Standard
+במבוא:
+\end_layout
+
+\begin_layout Standard
+חוק מאלס
+\end_layout
+
+\begin_layout Standard
+מה זה קיטוב
+\end_layout
+
+\begin_layout Standard
+להסביר על פרוקטוז וגלוקוז
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $ $
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+לגבי התוצאות - להתחיל עם משהו ובונים
+\end_layout
+
+\begin_layout Standard
+להוסיף לחוק מאלוס
+\end_layout
+
+\begin_layout Standard
+להסביר על השגיאות הקטנות
 \end_layout
 
 \end_body

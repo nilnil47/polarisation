@@ -150,3 +150,8 @@ ui-tests/playwright-report
 
 *.bmp
 *.mwi
+
+*.pptx
+*.png
+*.svg
+*.txt
